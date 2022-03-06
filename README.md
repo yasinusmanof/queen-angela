@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/queen-angela)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShehanShahoff/queen-angela)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
@@ -66,8 +66,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## DRIPS MEMES
-    
+## SKE TECH   
 ### ⚠ Warning ⚠
 
 ```
@@ -84,9 +83,9 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-## ```TAP THE WHATSAPP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
+## ```TAP THE WHATSAP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
  
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)**
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA)**
 
 
  
