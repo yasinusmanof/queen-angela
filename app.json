@@ -1,9 +1,9 @@
 {
     "name": "Queen Angella",
-    "description": "Queen Angella - Whatsapp Bot",
+    "description": "Usman Yasin - Whatsapp Bot",
     "logo": "https://i.imgur.com/wvTMw09.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/zim-bot/queen-angella",
+    "repository": "https://github.com/zim-bot/yasinusmanof",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
